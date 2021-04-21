@@ -1,6 +1,8 @@
 ## About me
 Duong Nhu's project focuses on automated epilepsy monitoring of short and long term EEG recordings, and wearable devices under the GRIP scholarship. Duong Nhu's supervisors are Dr. Levin Kuhlmann, Professor Patrick Kwan, Dr. Chang Wei Tan, and Dr. Amanda Gilligan. Duong has been awarded the MIME research funding, and the most outstanding poster presentation at the 1st Monash Young MedTech Innovators Symposium.
-<img src="assets/profile.jpg" width="100" height="100"/>
+
+<img src="assets/profile.jpg" width="200" height="250"/>
+
 ## Contact details
 Email: [d.binhnhu@gmail.com](d.binhnhu@gmail.com), [duong.nhu1@monash.edu](duong.nhu1@monash.edu)
 
