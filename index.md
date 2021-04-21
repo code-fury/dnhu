@@ -1,5 +1,5 @@
 ## About me
-I am a PhD student under GRIP scholarship at Monash University, Austrlia. My research focuses on deep learning for automated epilepsy monitoring of short and long term EEG recordings, and wearable devices. I was awarded the `Monash Partners and CSIRO sponsored PhD research support program` and `The most outstanding poster presentation at the 1st Monash Young MedTech Innovators Symposium 2019`.
+I am a PhD student under GRIP scholarship at Monash University, Austrlia. My research focuses on deep learning for automated epilepsy monitoring of short and long term EEG recordings, and wearable devices. I was awarded the **Monash Partners and CSIRO sponsored PhD research support program** and **The most outstanding poster presentation at the 1st Monash Young MedTech Innovators Symposium 2019**.
 
 <img src="assets/profile.jpg" width="200" height="250"/>
 
